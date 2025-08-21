@@ -152,6 +152,6 @@
 
 ---
 
- **From [Altriors](https://github.com/Altriors) with **
+ **From [Altriors](https://github.com/Altriors)  **
 
 </div>
