@@ -61,16 +61,6 @@
 -  **Features**: Course management, assignments, interactive learning modules
 -  **Multi-user support** for students and teachers
 
-###  [DevOps Practice](https://github.com/Altriors/devops)
-> **Exploring modern DevOps workflows and automation**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
--  **CI/CD pipeline** implementation
--  **Container orchestration** with Docker
--  **Infrastructure as Code** practices
--  **Automated deployment** strategies
-
 ---
 
 ##  GitHub Statistics
