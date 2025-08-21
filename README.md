@@ -136,7 +136,7 @@
  Looking for help with **Advanced System Design**  
  Ask me about **Flutter, Firebase, Node.js**  
  Reach me at **nikilkumar.tm@gmail.com**    
- Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+ Fun fact: **My laptop has seen more late nights than my friends**
 
 </div>
 
