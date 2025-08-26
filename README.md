@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nikilesh Kumar
+# Hi there , I'm Nikilesh Kumar
 
 <div align="center">
 
