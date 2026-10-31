@@ -196,30 +196,6 @@ Some other projects and experiments available in my repositories:
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Altriors&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altriors&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Altriors&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Altriors&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -241,9 +217,5 @@ Some other projects and experiments available in my repositories:
 ### Always Learning. Always Building.
 
 *Interested in turning ideas into practical applications through software engineering, AI and experimentation.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Altriors&color=36BCF7&style=flat-square)
-
-![Followers](https://img.shields.io/github/followers/Altriors?style=social)
 
 </div>
