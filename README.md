@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Fourth-Year Computer Science Engineering Student | Full-Stack Developer | AI/ML Enthusiast
+### Final-Year Computer Science Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=550&lines=Building+Practical+Software+Solutions;Exploring+AI%2FML+and+Deep+Learning;Full-Stack+%7C+Mobile+%7C+AI+Projects;Always+Learning+and+Building)](https://git.io/typing-svg)
 
@@ -36,6 +36,7 @@ I'm a final-year Computer Science Engineering student at **Mahatma Gandhi Instit
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Web & Mobile Development
 
@@ -43,6 +44,7 @@ I'm a final-year Computer Science Engineering student at **Mahatma Gandhi Instit
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases
@@ -62,6 +64,7 @@ I'm a final-year Computer Science Engineering student at **Mahatma Gandhi Instit
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
@@ -88,7 +91,7 @@ A full-stack civic-tech platform designed to improve municipal waste complaint t
 - GPS-based complaint reporting with image uploads.
 - Real-time complaint status tracking.
 - Integrated mapping, analytics dashboards and audit logs.
-- Built using React, Node.js, Express, MongoDB Atlas, Leaflet and Cloudinary.
+- Built using React, Node.js, Express, MongoDB Atlas, Leaflet, Cloudinary, JWT, Tailwind CSS and Framer Motion.
 
 ### 3. AI-Powered Interactive Virtual Companion
 
@@ -156,11 +159,13 @@ Some other projects and experiments available in my repositories:
 |---|---|
 | [Pharmacy Management System](https://github.com/Altriors/pharma-management) | Pharmacy management |
 | [Warehouse AI](https://github.com/Altriors/warehouse-robot) | AI-based object identification and warehouse placement |
-| [Gradient Descent ML](https://github.com/Altriors/gradient-descent-ML) | Machine learning |
 | [Warehouse Robot Simulation](https://github.com/Altriors/warehouse-robot-sim) | Simulation |
+| [Gradient Descent ML](https://github.com/Altriors/gradient-descent-ML) | Machine learning |
 | [YouTube Video Chapters](https://github.com/Altriors/youtube-video-chapters) | Application development |
 | [YouTube Sentiment Analysis](https://github.com/Altriors/youtube_sentimental_analysis) | Data analysis and NLP |
 | [SpaceX Go](https://github.com/Altriors/Spacex_go) | Application development |
+| [Shop Management (C + ncurses)](https://github.com/Altriors/shop-management-using-ncurses-using-C-) | Terminal-based application in C |
+| [Todo Web App](https://github.com/Altriors/todo_web_app) | Web development |
 
 [Explore all my repositories →](https://github.com/Altriors?tab=repositories)
 
@@ -188,8 +193,6 @@ Some other projects and experiments available in my repositories:
 - Active Member, Association for Computing Machinery (ACM) Student Chapter, MGIT (2023–Present).
 - Participant, ACM India Regional Chapter Summit (2024).
 - B.Tech academic record: **8.83 CGPA**.
-- Class XII: **92.70%**.
-- Class X: **98.33%**.
 
 ---
 
@@ -197,7 +200,7 @@ Some other projects and experiments available in my repositories:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Altriors&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Altriors&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altriors&layout=compact&theme=tokyonight&hide_border=true"/>
 
